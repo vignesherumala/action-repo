@@ -1,3 +1,2 @@
 # action-repo
-
-push&commit
+ change1
